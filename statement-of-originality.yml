@@ -5,7 +5,7 @@ name: ORĂȘANU Sabin Ilie
 
 declaration: >-
   I declare that everything I have submitted in this assignment is entirely my
-  own work, with the following exceptions:
+  own work, with the following exceptions: the concept of generative drum sysetem and the implementation of it.
 
 
 # add as many "name+comment" entries as necessary
@@ -19,7 +19,7 @@ collaboration:
 # (or remove it altogether if you haven't used any external code)
 code:
   - comment:
-    url:
+    url: https://www.youtube.com/watch?v=j1ySd99uXkM&t=246s&ab_channel=AndrewRobinson
     licence:
 
 
